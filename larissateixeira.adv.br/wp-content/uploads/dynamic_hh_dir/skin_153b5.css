@@ -1,0 +1,208 @@
+ ::-moz-selection {
+  background-color: #483949;
+}
+::selection {
+  background-color: #483949;
+}
+body {
+  font-family: Roboto Condensed;
+  font-weight: 400;
+  font-size: 1.125em;
+  line-height: 1.5556em;
+  color: #333334;
+  background-color: ;
+  background-repeat: ;
+  background-size: ;
+  background-attachment: ;
+  background-position: ;
+  background-image: url();
+}
+h1 {
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  font-size: 3.3333em;
+  color: #333334;
+}
+h2 {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 2.6667em;
+  color: #333334;
+}
+h3 {
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  font-size: 2em;
+  color: #333334;
+}
+h4 {
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  font-size: 1.6667em;
+  color: #333334;
+}
+h5 {
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  font-size: 1.3333em;
+  color: #333334;
+}
+h6 {
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  font-size: 1em;
+  color: #333334;
+}
+a {
+  color: #c6973f;
+}
+a:hover,
+.info-btn,
+.entry-meta a,
+.taglcoud a,
+.info-btn.with-icon > i,
+.entry .label .date > *,
+.info-links > li > a,
+.accordion.style-2 .a-title.active,
+.icons-box:not(.style-3) .icons-item .item-box > i,
+.widget_meta li > a,
+.widget_links li > a,
+.widget_archive li > a,
+.widget_pages li > a,
+.widget_recent_entries li > a,
+.widget_categories li > a,
+.widget_recent_comments li > a,
+.widget_rss li > a,
+.widget_nav_menu li > a,
+#sidebar .widget_meta li > a,
+#sidebar .widget_links li > a,
+#sidebar .widget_archive li > a,
+#sidebar .widget_pages li > a,
+#sidebar .widget_recent_entries li > a,
+#sidebar .widget_categories li > a,
+#sidebar .widget_recent_comments li > a,
+#sidebar .widget_rss li > a,
+#sidebar .widget_nav_menu li > a,
+.wysija-paragraph:after,
+.icons-box.price-box .icons-wrap .icons-item .price,
+.contact-info.style-2 li.info-item > .item-info span,
+.team-holder.style-2 .team-item .team-desc.overlay .member-position,
+.team-holder.style-3 .team-item .team-desc .member-position {
+  color: #c6973f;
+}
+.owl-dots .owl-dot.active,
+[class*="btn"].btn-style-2,
+[class*="btn"].btn-style-5,
+.wpcf7-form-control.wpcf7-submit,
+.pagination > li.active > a,
+.pagination > li:hover > a,
+.icons-box.style-5 .icons-wrap .icons-item:hover,
+.icons-box.price-box.type-1 .icons-wrap .icons-item:hover {
+  background-color: #c6973f;
+}
+.owl-dots .owl-dot.active,
+.grid-classic .service-item .service-body,
+.section-title[class*="with-border-"]:after,
+hr.style-3,
+span[class*="item-divider"].style-3 {
+  border-color: #c6973f;
+}
+.team-item .team-desc.overlay {
+  background-color: rgba(198, 151, 63, 0.9);
+}
+.team-desc.overlay.style-2 {
+  background-color: #c6973f;
+}
+.header.style-1 .logo-wrap {
+  background-color: #000000;
+}
+.header.style-1 {
+  background-color: #f9f9f9;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: ;
+  background-position: center center;
+  background-image: url();
+}
+.header.style-2 {
+  background-color: #f9f9f9;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: ;
+  background-position: center center;
+  background-image: url();
+}
+.header.style-2 .menu-holder {
+  background-color: #c6973f;
+}
+.header.style-3 {
+  background-color: #c6973f;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: ;
+  background-position: center center;
+  background-image: url();
+}
+.main-navigation > ul > li > a {
+  font-family: Roboto Condensed;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5556em;
+  text-transform: uppercase;
+  color: #483949;
+}
+.main-navigation > ul > li:hover > a {
+  color: #483949;
+}
+.sub-menu-wrap ul li a {
+  font-family: Roboto Condensed;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.5556em;
+  color: #483949;
+}
+.sub-menu-wrap ul li:hover > a {
+  color: #65ae84;
+  background-color: #f9f9f9;
+}
+.sub-menu-wrap ul li.current-menu-item > a,
+.sub-menu-wrap ul li.current-menu-parent > a,
+.sub-menu-wrap ul li.current-menu-ancestor > a,
+.sub-menu-wrap ul li.current_page_item > a,
+.sub-menu-wrap ul li.current_page_parent > a,
+.sub-menu-wrap ul li.current_page_ancestor > a {
+  color: #65ae84;
+  background-color: #f9f9f9;
+}
+@media only screen and (max-width: 992px) {
+  .mobile-advanced > ul > li > a {
+    background-color: #000000;
+  }
+  .mobile-advanced > ul > li:hover > a,
+  .mobile-advanced > ul > li.current-menu-item > a,
+  .mobile-advanced > ul > li.current-menu-parent > a,
+  .mobile-advanced > ul > li.current-menu-ancestor > a,
+  .mobile-advanced > ul > li.current_page_item > a,
+  .mobile-advanced > ul > li.current_page_parent > a,
+  .mobile-advanced > ul > li.current_page_ancestor > a {
+    background-color: #dd9933;
+  }
+  .mobile-advanced .sub-menu-wrap ul li a {
+    font-family: Roboto Condensed;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5556em;
+    color: #000000;
+  }
+}
+#footer[class*="footer"] {
+  background-color: #000000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: ;
+  background-position: center center;
+  background-image: url();
+}
+[class*="footer"] .widget .widget-title {
+  color: #ffffff;
+}
